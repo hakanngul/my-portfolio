@@ -1,6 +1,6 @@
-# Developer Portfolio
+# Hakan Gul - Portfolio
 
-#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+#### Professional portfolio website of Hakan Gul, Senior Software Developer in Test Engineer specializing in QA automation, test frameworks, and quality assurance. This portfolio showcases my experience in test automation, software development, and AI engineering.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## Portfolio Features
 
 ---
 
