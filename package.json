@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "hakan-gul-portfolio",
   "description": "Portfolio of Hakan Gul - Senior Software Developer in Test Engineer",
-=======
-  "name": "developer-portfolio",
-  "description": "Portfolio of HAKAN GUL",
->>>>>>> be1f8d6 (Update personal information to reflect Hakan Gul's details in portfolio)
   "version": "0.1.0",
   "private": true,
   "scripts": {
