@@ -24,7 +24,7 @@ function AboutSection() {
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
-            src={personalData.profile}
+            src="https://media.licdn.com/dms/image/v2/D4D03AQGt6lE89T2V3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706995059751?e=1756944000&v=beta&t=ZuyAmY9ZZQLGP93e_LdLZn5SJ9CygjcVlsNi5RUjBjE"
             width={280}
             height={280}
             alt="HAKAN GUL"
